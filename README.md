@@ -1,3 +1,5 @@
+Video Link: https://www.youtube.com/watch?v=QUFJXhvWcpo
+
 Program was written in python and 'main.py' is the only python file. I have
 also included a file called 'a3.sql' which contains the SQL command to create 
 the table as well as input the starting data (in pgAdmin4).
