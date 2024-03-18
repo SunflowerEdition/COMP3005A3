@@ -1,3 +1,7 @@
+Note: There's an error in the video. During the database creation, I had 
+"student_id SERIAL NOT NULL". This was supposed to be "student_id SERIAL PRIMARY KEY".
+I have made the change in the A3.sql file.
+
 Video Link: https://www.youtube.com/watch?v=QUFJXhvWcpo
 
 Program was written in python and 'main.py' is the only python file. I have
